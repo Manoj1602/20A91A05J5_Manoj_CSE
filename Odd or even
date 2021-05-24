@@ -1,0 +1,15 @@
+a=int(input("Enter the value:"))
+b=int(input("Enter the value:"))
+if a%2==0:
+  print("a is even number")
+else:
+  print("a is odd number")
+if b%2!=0:
+  print("b is odd number")
+else:
+  print("b is even number")
+Output:
+Enter the value:15273919
+Enter the value:1428258
+a is odd number
+b is even number
